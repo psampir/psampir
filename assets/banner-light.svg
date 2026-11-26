@@ -38,7 +38,7 @@
   <g clip-path="url(#cardlight)">
     <rect x="0.5" y="0.5" width="1199" height="239" rx="14" fill="url(#bglight)"/>
     <rect x="0.5" y="0.5" width="1199" height="239" fill="url(#glowlight)"/>
-    <rect x="0.5" y="0.5" width="1199" height="12" fill="url(#sheenlight)" opacity=".9"/>
+    
 
     <!-- right medallion -->
     <circle cx="1068" cy="120" r="78" fill="url(#medlight)" stroke="#d0d7de" stroke-width="1.2"/>
