@@ -38,7 +38,7 @@
   <g clip-path="url(#carddark)">
     <rect x="0.5" y="0.5" width="1199" height="239" rx="14" fill="url(#bgdark)"/>
     <rect x="0.5" y="0.5" width="1199" height="239" fill="url(#glowdark)"/>
-    <rect x="0.5" y="0.5" width="1199" height="12" fill="url(#sheendark)" opacity=".18"/>
+    <rect x="0.5" y="0.5" width="1199" height="12" fill="url(#sheen{name})" opacity=".18"/>
 
     <!-- right medallion -->
     <circle cx="1068" cy="120" r="78" fill="url(#meddark)" stroke="#263449" stroke-width="1.2"/>
